@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 
 void main() {
   runApp(MyApp());
@@ -31,8 +30,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text('Asset Widget Test'),
       ),
       body: Center(
-        child: SvgPicture.asset(
-          'assets/discount.svg',
+        child: Image.asset(
+          'assets/sample.jpg',
           package: 'asset_provider',
         ),
       ),

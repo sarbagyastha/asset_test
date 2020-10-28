@@ -11,7 +11,6 @@ dependencies:
     sdk: flutter
   asset_provider:
     path: ../asset_provider
-  flutter_svg: ^0.19.1
 
 dev_dependencies:
   flutter_test:
