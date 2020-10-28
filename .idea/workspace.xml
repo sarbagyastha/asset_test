@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f293d577-f71d-4d14-bcc1-9d79a4779c5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1jUxkLj9H5QK477ffHqDGWAXRZb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/asset_provider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter Test.smoke test">
+    <configuration name="Unnamed" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/packages/asset_load_test/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smoke test" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="smoke test" />
+      <option name="testFile" value="$PROJECT_DIR$/packages/asset_load_test/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.Unnamed" />
+      <item itemvalue="Flutter Test.smoke test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.smoke test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f293d577-f71d-4d14-bcc1-9d79a4779c5f" name="Default Changelist" comment="" />
+      <created>1603872613516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603872613516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603872813193">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603872813193" />
+    <state x="692" y="332" width="525" height="423" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1603872812323">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="692" y="332" width="525" height="423" key="#com.intellij.ide.util.TreeFileChooserDialog/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603872812323" />
+    <state width="1874" height="411" key="GridCell.Tab.0.bottom" timestamp="1603874830356">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state width="1874" height="411" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603874830356" />
+    <state width="1874" height="411" key="GridCell.Tab.0.center" timestamp="1603874830356">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state width="1874" height="411" key="GridCell.Tab.0.center/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603874830356" />
+    <state width="1874" height="411" key="GridCell.Tab.0.left" timestamp="1603874830356">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state width="1874" height="411" key="GridCell.Tab.0.left/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603874830356" />
+    <state width="1874" height="411" key="GridCell.Tab.0.right" timestamp="1603874830356">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state width="1874" height="411" key="GridCell.Tab.0.right/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603874830356" />
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1603872775295">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.21.1920.1059@0.21.1920.1059" timestamp="1603872775295" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/../../flutter_dev/packages/flutter/lib/src/services/binding.dart</url>
+          <line>303</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/../../flutter_dev/packages/flutter/lib/src/services/asset_bundle.dart</url>
+          <line>222</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/../../flutter_dev/packages/flutter_test/lib/src/_binding_io.dart</url>
+          <line>56</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/../../flutter_dev/packages/flutter_test/lib/src/_binding_io.dart</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
